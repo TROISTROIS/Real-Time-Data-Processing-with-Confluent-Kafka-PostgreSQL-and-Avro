@@ -1,0 +1,62 @@
+{"id": 1, "name": "Smartphone", "category": "electronics", "price": 499.99, "last_updated": "2023-01-01T12:30:00+00:00"}
+{"id": 2, "name": "Laptop", "category": "electronics", "price": 899.99, "last_updated": "2023-02-05T15:45:00+00:00"}
+{"id": 3, "name": "Coffee Maker", "category": "appliances", "price": 79.99, "last_updated": "2023-03-10T08:20:00+00:00"}
+{"id": 4, "name": "Running Shoes", "category": "apparel", "price": 59.99, "last_updated": "2023-04-15T18:10:00+00:00"}
+{"id": 8, "name": "Fitness Tracker", "category": "electronics", "price": 89.99, "last_updated": "2023-08-05T20:45:00+00:00"}
+{"id": 10, "name": "Dress Shirt", "category": "apparel", "price": 39.99, "last_updated": "2023-10-15T22:50:00+00:00"}
+{"id": 12, "name": "Running Watch", "category": "accessories", "price": 149.99, "last_updated": "2023-12-25T16:05:00+00:00"}
+{"id": 14, "name": "Leather Wallet", "category": "accessories", "price": 29.99, "last_updated": "2024-02-05T14:45:00+00:00"}
+{"id": 16, "name": "Gaming Console", "category": "electronics", "price": 349.99, "last_updated": "2024-04-15T18:10:00+00:00"}
+{"id": 17, "name": "Desk Chair", "category": "furniture", "price": 129.99, "last_updated": "2024-05-20T09:55:00+00:00"}
+{"id": 18, "name": "Electric Toothbrush", "category": "health", "price": 39.99, "last_updated": "2024-06-25T14:30:00+00:00"}
+{"id": 19, "name": "Travel Mug", "category": "accessories", "price": 14.99, "last_updated": "2024-07-30T17:15:00+00:00"}
+{"id": 20, "name": "Tennis Racket", "category": "sports", "price": 79.99, "last_updated": "2024-08-05T20:45:00+00:00"}
+{"id": 21, "name": "Portable Speaker", "category": "electronics", "price": 59.99, "last_updated": "2024-09-10T11:25:00+00:00"}
+{"id": 27, "name": "Digital Thermometer", "category": "health", "price": 19.99, "last_updated": "2025-03-10T08:20:00+00:00"}
+{"id": 32, "name": "Tea Kettle", "category": "appliances", "price": 34.99, "last_updated": "2025-08-05T20:45:00+00:00"}
+{"id": 13, "name": "Blender", "category": "appliances", "price": 69.99, "last_updated": "2024-01-01T09:30:00+00:00"}
+{"id": 24, "name": "Home Security Camera", "category": "electronics", "price": 129.99, "last_updated": "2024-12-25T16:05:00+00:00"}
+{"id": 26, "name": "Hiking Boots", "category": "apparel", "price": 79.99, "last_updated": "2025-02-05T14:45:00+00:00"}
+{"id": 31, "name": "Hammock", "category": "furniture", "price": 59.99, "last_updated": "2025-07-30T17:15:00+00:00"}
+{"id": 33, "name": "Puzzle Board Game", "category": "toys", "price": 19.99, "last_updated": "2025-09-10T11:25:00+00:00"}
+{"id": 34, "name": "Wireless Earbuds", "category": "electronics", "price": 79.99, "last_updated": "2025-10-15T22:50:00+00:00"}
+{"id": 36, "name": "Running Jacket", "category": "apparel", "price": 49.99, "last_updated": "2025-12-25T16:05:00+00:00"}
+{"id": 37, "name": "Coffee Table", "category": "furniture", "price": 149.99, "last_updated": "2026-01-01T09:30:00+00:00"}
+{"id": 38, "name": "Vacuum Sealer", "category": "kitchen", "price": 89.99, "last_updated": "2026-02-05T14:45:00+00:00"}
+{"id": 15, "name": "Yoga Mat", "category": "fitness", "price": 19.99, "last_updated": "2024-03-10T08:20:00+00:00"}
+{"id": 22, "name": "Couch", "category": "furniture", "price": 699.99, "last_updated": "2024-10-15T22:50:00+00:00"}
+{"id": 28, "name": "Printed T-Shirt", "category": "apparel", "price": 14.99, "last_updated": "2025-04-15T18:10:00+00:00"}
+{"id": 35, "name": "Potted Plant", "category": "home decor", "price": 29.99, "last_updated": "2025-11-20T13:40:00+00:00"}
+{"id": 39, "name": "Portable Charger", "category": "accessories", "price": 39.99, "last_updated": "2026-03-10T08:20:00+00:00"}
+{"id": 40, "name": "Fleece Blanket", "category": "home decor", "price": 24.99, "last_updated": "2026-04-15T18:10:00+00:00"}
+{"id": 41, "name": "Treadmill", "category": "fitness", "price": 699.99, "last_updated": "2026-05-20T09:55:00+00:00"}
+{"id": 42, "name": "Serving Tray", "category": "kitchen", "price": 14.99, "last_updated": "2026-06-25T14:30:00+00:00"}
+{"id": 43, "name": "Sun Hat", "category": "apparel", "price": 19.99, "last_updated": "2026-07-30T17:15:00+00:00"}
+{"id": 44, "name": "Board Game", "category": "toys", "price": 29.99, "last_updated": "2026-08-05T20:45:00+00:00"}
+{"id": 45, "name": "Wall Clock", "category": "home decor", "price": 49.99, "last_updated": "2026-09-10T11:25:00+00:00"}
+{"id": 46, "name": "Grill Set", "category": "outdoor", "price": 59.99, "last_updated": "2026-10-15T22:50:00+00:00"}
+{"id": 47, "name": "Ceramic Mug", "category": "kitchen", "price": 9.99, "last_updated": "2026-11-20T13:40:00+00:00"}
+{"id": 48, "name": "Yoga Blocks", "category": "fitness", "price": 14.99, "last_updated": "2026-12-25T16:05:00+00:00"}
+{"id": 49, "name": "Digital Scale", "category": "kitchen", "price": 29.99, "last_updated": "2027-01-01T09:30:00+00:00"}
+{"id": 50, "name": "Desk Lamp", "category": "home decor", "price": 19.99, "last_updated": "2027-02-05T14:45:00+00:00"}
+{"id": 51, "name": "Camping Tent", "category": "outdoor", "price": 129.99, "last_updated": "2027-03-10T08:20:00+00:00"}
+{"id": 52, "name": "Pillow Set", "category": "home decor", "price": 39.99, "last_updated": "2027-04-15T18:10:00+00:00"}
+{"id": 53, "name": "Pet Bed", "category": "pets", "price": 49.99, "last_updated": "2027-05-20T09:55:00+00:00"}
+{"id": 54, "name": "Aromatherapy Diffuser", "category": "home decor", "price": 29.99, "last_updated": "2027-06-25T14:30:00+00:00"}
+{"id": 55, "name": "Gardening Gloves", "category": "outdoor", "price": 14.99, "last_updated": "2027-07-30T17:15:00+00:00"}
+{"id": 56, "name": "Wireless Charging Pad", "category": "electronics", "price": 24.99, "last_updated": "2027-08-05T20:45:00+00:00"}
+{"id": 57, "name": "Bicycle Helmet", "category": "outdoor", "price": 39.99, "last_updated": "2027-09-10T11:25:00+00:00"}
+{"id": 58, "name": "Hand Mixer", "category": "kitchen", "price": 29.99, "last_updated": "2027-10-15T22:50:00+00:00"}
+{"id": 59, "name": "Photo Frame", "category": "home decor", "price": 9.99, "last_updated": "2027-11-20T13:40:00+00:00"}
+{"id": 60, "name": "Air Purifier", "category": "home appliances", "price": 89.99, "last_updated": "2027-12-25T16:05:00+00:00"}
+{"id": 61, "name": "Wine Glasses Set", "category": "kitchen", "price": 19.99, "last_updated": "2028-01-01T09:30:00+00:00"}
+{"id": 62, "name": "Camping Chair", "category": "outdoor", "price": 29.99, "last_updated": "2028-02-05T14:45:00+00:00"}
+{"id": 63, "name": "Running Socks", "category": "apparel", "price": 9.99, "last_updated": "2028-03-10T08:20:00+00:00"}
+{"id": 64, "name": "Toaster", "category": "kitchen", "price": 34.99, "last_updated": "2028-04-15T18:10:00+00:00"}
+{"id": 65, "name": "Travel Backpack", "category": "accessories", "price": 59.99, "last_updated": "2028-05-20T09:55:00+00:00"}
+{"id": 66, "name": "Candle Holder", "category": "home decor", "price": 14.99, "last_updated": "2028-06-25T14:30:00+00:00"}
+{"id": 67, "name": "Resistance Bands Set", "category": "fitness", "price": 24.99, "last_updated": "2028-07-30T17:15:00+00:00"}
+{"id": 68, "name": "Rain Jacket", "category": "apparel", "price": 49.99, "last_updated": "2028-08-05T20:45:00+00:00"}
+{"id": 69, "name": "Insulated Water Bottle", "category": "outdoor", "price": 19.99, "last_updated": "2028-09-10T11:25:00+00:00"}
+{"id": 70, "name": "Digital Alarm Clock", "category": "electronics", "price": 29.99, "last_updated": "2028-10-15T22:50:00+00:00"}
+{"id": 71, "name": "Ice Cream Scoop", "category": "kitchen", "price": 9.99, "last_updated": "2028-11-20T13:40:00+00:00"}
